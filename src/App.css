@@ -33,3 +33,13 @@
 }
 
 
+@font-face {
+  font-family: 'Kimberley';
+  src: local('/public/Fonts/Kimberley.ttf');
+}   
+
+*{
+  font-family: 'Kimberley', sans-serif;
+  font-style: 100;
+}
+

@@ -1,29 +1,13 @@
 import React, {useState} from 'react';
-//import {Button} from './Button';
 import {Link} from 'react-router-dom';
 import './Navbar.css';
 
 function Navbar() {
-    const [click, setClick] =useState(false);
- //   const [button, setButton] = useState(true);
+    const [click, setClick] = useState(false);
 
-    const handleClick =() => setClick(!click);
+    const handleClick = () => setClick(!click);
     const closeMobileMenu = () => setClick(false);
-
-  //  const showButton =() => {
-   //     if(window.innerWidth <= 960) {
- //           setButton(false);
-  //          }
- //           else{
-  //              setButton(true);
- //           }
- //   }
-
-  // useEffect (() => {
-  //     showButton();
- // }, []);
-
-  //  window.addEventListener('resize', showButton);
+  
 
     return (
     <>
@@ -32,7 +16,8 @@ function Navbar() {
            
            <div className="navbar-container">
                <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                  GSI <i className='fab fa-typo3' />
+                   
+                  <img className="navbar-logo" src="images/gekkosoft-logo.png"/>
                </Link>
                <div className='menu-icon' onClick={handleClick} >
                    <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
