@@ -1,0 +1,1 @@
+SELECT Telephely, Orvosok, Paciens FROM eitp

@@ -2,21 +2,22 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'PT Sans', sans-serif;
-}
+  font-family: 'Encode Sans Condensed', sans-serif;}
 
 .home,
-.services,
-.products,
-.sign-up {
+.szolgaltatasok,
+.termekek,
+.kapcsolat,
+.rolunk {
   display: flex;
-  height: 90vh;
+  height: calc(100vh - 80px);
   align-items: center;
   justify-content: center;
   font-size: 3rem;
 }
 
-.services, .kapcsolat {
+.szolgaltatasok {
+/*  background-image: url('/images/img-2.jpg');*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -24,7 +25,8 @@
   font-size: 100px;
 }
 
-.products {
+.termekek {
+ /* background-image: url('/images/img-1.jpg');*/
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -32,14 +34,37 @@
   font-size: 100px;
 }
 
+.kapcsolat, .rolunk {
+/*  background-image: url('/images/img-8.jpg');*/
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
 
 @font-face {
-  font-family: 'Kimberley';
-  src: local('/public/Fonts/Kimberley.ttf');
-}   
+  font-family: "Kimberley";
+  src: url("./fonts/Kimberley.woff");
+  src: url("./fonts/Kimberley.ttf");
 
-*{
+
+ 
+  
+  };
+  
+
+
+
+h1{
   font-family: 'Kimberley', sans-serif;
   font-style: 100;
+}
+
+.not-found{
+  font-size: 100px;
+   width:60vw;
+   text-align: center;
+  margin:200px auto 0px;
 }
 

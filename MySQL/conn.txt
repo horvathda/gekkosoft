@@ -1,0 +1,7 @@
+server=localhost
+port=33066
+user=root
+password=GekkoWeb2021
+database=gekko
+
+MYSQL: USE gekko;

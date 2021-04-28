@@ -1,0 +1,300 @@
+/******************\
+EESZT PROGRAMJAINK
+\******************/
+
+
+
+
+.section1__title{
+    background:#fff;
+    height:100vh;
+}
+
+.section1__title h1{
+font-weight: 500;
+font-size: 2vw;
+}
+
+.eeszt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:50px;
+
+}
+
+
+.eeszt_logo{
+    width: 250px;
+    margin-left:10px;
+    
+}
+
+/******************\
+MÁSODIKSZEKCIÓ
+\******************/
+.section{
+    width:100vw;
+    z-index:2;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+   
+
+}
+.section3{
+    display: flex;
+
+}
+
+
+/******************\
+HÁTTEREK
+\******************/
+
+
+.bg1{background-image:url('./background/bg_home1.jpg') ;}
+.bg2{background-image:url('./background/bg_home2.jpg') ;}
+.bg3{background-image:url('./background/bg_home3.jpg') ;}
+
+
+
+
+/******************\
+BAL-JOBB
+\******************/
+.left{
+  float:left;
+  /*text-align:left;*/
+  position: relative;
+  color:white;
+
+}
+
+.right{
+   float:right;
+   /*text-align: right;*/
+   color:rgba(87, 84, 79,1)
+
+}
+
+/******************\
+SZÖVEG BEÁLLÍTÁSOK
+\******************/
+
+
+.section__title{
+  font-size: 4vw;
+  margin-top:5vh;
+  font-weight: 600;
+  text-align: left;
+}
+
+
+.section__text{
+  font-weight: 200;
+  margin-top:5%; 
+  width:30vw;
+  line-height: 1.5;
+  
+
+}
+
+
+.class__box{
+width:45vw;
+margin-left:5%;
+margin-right:5%;
+font-size :1.8vw;
+letter-spacing: 1.5px;
+min-height:95vh;
+
+}
+
+
+.title__right{
+    color:black;
+    text-align: right;
+
+
+}
+
+.title__left{
+    background: -webkit-linear-gradient(right,#fff,#03a9ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width:47vw;
+}
+
+.text-right{
+    float:right; 
+}
+
+/******************\
+NAGY SZÁMOK TÖRVÉNYE
+\******************/
+
+.numbers{
+    width:32vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top:5%;
+    font-size: 2.5vw;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom:2.5rem;
+
+    
+
+}
+
+.numbers span{
+    font-weight: 700;
+    font-size: 5.5vw;
+}
+
+
+/*
+#height-large{
+    min-height: equal to #height-small height if #height-small is taller, else 600px;
+}
+
+#height-small{
+    min-height: equal to #height-large height if #height-large is taller, else 600px;
+}
+*/
+
+
+
+/******************\
+LOGÓK
+\******************/
+
+.logo_box{
+background-image:url('./background/minta_logok_fooldal.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: 85%;
+height:100%;
+}
+
+
+/******************\
+VÉLEMÉNYEK
+\******************/
+
+
+.opinion__box{
+display: grid;
+background: #fff;
+grid-auto-flow: column;
+grid-template-columns:repeat(3,19.5vw) ;
+grid-template-rows: repeat(2, auto);
+justify-content: space-evenly;
+align-content: space-between;
+row-gap: 12vh;
+padding-bottom:5vh;
+
+
+
+
+}
+
+
+.opinion__text{
+    padding-left:5vw;
+    padding-top:5vh;
+    background:url('./background/idezojel_40szazalek.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+.opinion__text--box{
+    font-weight: 400;
+    line-height: 2;
+    font-size:1vw;
+
+
+}
+
+
+.opinion__user--box{
+    text-align:right;
+    font-size: 1.7vw;
+    padding-top:1vh;
+    font-weight: 600;
+
+}
+
+
+/******************\
+CONTACT FORM SECTION
+\******************/
+
+
+.contact-form__section{
+    background:url('./background/bg_mail.jpg');
+    height:80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.contact-form__box{
+
+
+}
+
+
+
+
+.contact-form__image{
+
+}
+.contact-form__image img{
+    width:50vw;
+}
+
+
+/******************\
+CONTACT FORM
+\******************/
+
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    width:30vw;
+    align-content: space-between;
+    margin-left:5vw;
+}
+
+
+.contact-form label{
+    margin-top:2vh;
+    margin-bottom:1vh;
+    color:#fff;
+
+
+}
+
+.contact-form button{
+    margin-top:2vh;
+
+}
+
+
+
+
+
+
+

@@ -1,0 +1,964 @@
+170630  9:53:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170630  9:53:22  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 267627.
+InnoDB: Doing recovery: scanned up to log sequence number 0 267627
+170630  9:53:22  InnoDB: Flushing modified pages from the buffer pool...
+170630  9:53:23  InnoDB: Started; log sequence number 0 267627
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+170718 15:47:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170718 15:47:52  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 267627.
+InnoDB: Doing recovery: scanned up to log sequence number 0 267627
+170718 15:47:52  InnoDB: Flushing modified pages from the buffer pool...
+170718 15:47:52  InnoDB: Started; log sequence number 0 267627
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180522 17:13:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180522 17:13:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 267627.
+InnoDB: Doing recovery: scanned up to log sequence number 0 267627
+180522 17:13:13  InnoDB: Flushing modified pages from the buffer pool...
+180522 17:13:13  InnoDB: Started; log sequence number 0 267627
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180527 13:34:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180527 13:34:59  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 267627.
+InnoDB: Doing recovery: scanned up to log sequence number 0 267627
+180527 13:35:00  InnoDB: Flushing modified pages from the buffer pool...
+180527 13:35:00  InnoDB: Started; log sequence number 0 267627
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180527 19:08:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180527 19:08:07  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 495559.
+InnoDB: Doing recovery: scanned up to log sequence number 0 495559
+180527 19:08:07  InnoDB: Flushing modified pages from the buffer pool...
+180527 19:08:07  InnoDB: Started; log sequence number 0 495559
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180528  7:19:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180528  7:19:47  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1860753.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1860753
+180528  7:19:47  InnoDB: Flushing modified pages from the buffer pool...
+180528  7:19:47  InnoDB: Started; log sequence number 0 1860753
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180608 12:19:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180608 12:19:44  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1860825.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1860825
+180608 12:19:44  InnoDB: Flushing modified pages from the buffer pool...
+180608 12:19:44  InnoDB: Started; log sequence number 0 1860825
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180628 17:35:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180628 17:35:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1860825.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1860825
+180628 17:35:20  InnoDB: Flushing modified pages from the buffer pool...
+180628 17:35:20  InnoDB: Started; log sequence number 0 1860825
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180719  8:24:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180719  8:24:12  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1860825.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1860825
+180719  8:24:12  InnoDB: Flushing modified pages from the buffer pool...
+180719  8:24:12  InnoDB: Started; log sequence number 0 1860825
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180720 15:22:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180720 15:22:06  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1860825.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1860825
+180720 15:22:06  InnoDB: Flushing modified pages from the buffer pool...
+180720 15:22:06  InnoDB: Started; log sequence number 0 1860825
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180721 13:13:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180721 13:13:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2089396.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2089396
+180721 13:13:39  InnoDB: Flushing modified pages from the buffer pool...
+180721 13:13:39  InnoDB: Started; log sequence number 0 2089396
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180722 12:42:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180722 12:42:07  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2089396.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2089396
+180722 12:42:07  InnoDB: Flushing modified pages from the buffer pool...
+180722 12:42:07  InnoDB: Started; log sequence number 0 2089396
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180723  8:24:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180723  8:24:01  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2089396.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2089396
+180723  8:24:01  InnoDB: Flushing modified pages from the buffer pool...
+180723  8:24:01  InnoDB: Started; log sequence number 0 2089396
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180723 17:59:38 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+180723 17:59:38 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+180723 18:11:16 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+180723 18:11:16 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+180723 18:15:34 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+180723 18:15:34 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+180724  9:49:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180724  9:49:24  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3682221.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3682221
+180724  9:49:24  InnoDB: Flushing modified pages from the buffer pool...
+180724  9:49:24  InnoDB: Started; log sequence number 0 3682221
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180725  8:49:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180725  8:49:42  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180725  8:49:42  InnoDB: Flushing modified pages from the buffer pool...
+180725  8:49:42  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180725 16:13:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180725 16:13:06  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180725 16:13:07  InnoDB: Flushing modified pages from the buffer pool...
+180725 16:13:07  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180726 17:04:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180726 17:04:32  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180726 17:04:32  InnoDB: Flushing modified pages from the buffer pool...
+180726 17:04:32  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180727 10:33:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180727 10:33:26  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180727 10:33:26  InnoDB: Flushing modified pages from the buffer pool...
+180727 10:33:26  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180727 10:45:11  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180727 10:45:11  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180727 10:45:11  InnoDB: Flushing modified pages from the buffer pool...
+180727 10:45:11  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180727 10:58:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180727 10:58:56  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180727 10:58:56  InnoDB: Flushing modified pages from the buffer pool...
+180727 10:58:56  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180727 22:12:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180727 22:12:48  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180727 22:12:48  InnoDB: Flushing modified pages from the buffer pool...
+180727 22:12:48  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180727 23:15:10  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180727 23:15:10  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180727 23:15:10  InnoDB: Flushing modified pages from the buffer pool...
+180727 23:15:11  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180728 12:24:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180728 12:24:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3911083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3911083
+180728 12:24:20  InnoDB: Flushing modified pages from the buffer pool...
+180728 12:24:20  InnoDB: Started; log sequence number 0 3911083
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180731 18:59:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180731 18:59:33  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4138328.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4138328
+180731 18:59:33  InnoDB: Flushing modified pages from the buffer pool...
+180731 18:59:33  InnoDB: Started; log sequence number 0 4138328
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180801 16:04:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180801 16:04:49  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4365910.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4365910
+180801 16:04:49  InnoDB: Flushing modified pages from the buffer pool...
+180801 16:04:49  InnoDB: Started; log sequence number 0 4365910
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180802 15:22:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180802 15:22:45  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4365946.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4365946
+180802 15:22:46  InnoDB: Flushing modified pages from the buffer pool...
+180802 15:22:46  InnoDB: Started; log sequence number 0 4365946
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180806 16:47:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180806 16:47:04  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4365946.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4365946
+180806 16:47:04  InnoDB: Flushing modified pages from the buffer pool...
+180806 16:47:04  InnoDB: Started; log sequence number 0 4365946
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180807 10:17:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180807 10:17:30  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4813990.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4813990
+180807 10:17:30  InnoDB: Flushing modified pages from the buffer pool...
+180807 10:17:30  InnoDB: Started; log sequence number 0 4813990
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180807 10:29:10 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:29:10 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:29:37 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:29:37 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:29:50 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:29:50 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:30:24 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:30:24 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:31:05 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180807 10:31:05 [ERROR] gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+180808  9:50:14  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180808  9:50:14  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5262035.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5262035
+180808  9:50:14  InnoDB: Flushing modified pages from the buffer pool...
+180808  9:50:14  InnoDB: Started; log sequence number 0 5262035
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180809 12:14:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180809 12:14:55  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5717891.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5717891
+180809 12:14:55  InnoDB: Flushing modified pages from the buffer pool...
+180809 12:14:55  InnoDB: Started; log sequence number 0 5717891
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180814 10:00:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180814 10:00:19  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5717891.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5717891
+180814 10:00:19  InnoDB: Flushing modified pages from the buffer pool...
+180814 10:00:19  InnoDB: Started; log sequence number 0 5717891
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180827 10:39:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180827 10:39:25  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5717891.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5717891
+180827 10:39:26  InnoDB: Flushing modified pages from the buffer pool...
+180827 10:39:26  InnoDB: Started; log sequence number 0 5717891
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180905  9:38:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180905  9:38:12  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5717891.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5717891
+180905  9:38:13  InnoDB: Flushing modified pages from the buffer pool...
+180905  9:38:13  InnoDB: Started; log sequence number 0 5717891
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180906 17:38:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180906 17:38:09  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5717891.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5717891
+180906 17:38:09  InnoDB: Flushing modified pages from the buffer pool...
+180906 17:38:09  InnoDB: Started; log sequence number 0 5717891
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180914 14:21:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180914 14:21:38  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5945488.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5945488
+180914 14:21:38  InnoDB: Flushing modified pages from the buffer pool...
+180914 14:21:38  InnoDB: Started; log sequence number 0 5945488
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+180916 17:46:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180916 17:46:50  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5945488.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5945488
+180916 17:46:50  InnoDB: Flushing modified pages from the buffer pool...
+180916 17:46:50  InnoDB: Started; log sequence number 0 5945488
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+181015 15:36:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+181015 15:36:24  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5945488.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5945488
+181015 15:36:24  InnoDB: Flushing modified pages from the buffer pool...
+181015 15:36:24  InnoDB: Started; log sequence number 0 5945488
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+181113 23:10:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+181113 23:10:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 6173069.
+InnoDB: Doing recovery: scanned up to log sequence number 0 6173069
+181113 23:10:20  InnoDB: Flushing modified pages from the buffer pool...
+181113 23:10:20  InnoDB: Started; log sequence number 0 6173069
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+181213 16:37:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+181213 16:37:30  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 6400702.
+InnoDB: Doing recovery: scanned up to log sequence number 0 6400702
+181213 16:37:30  InnoDB: Flushing modified pages from the buffer pool...
+181213 16:37:30  InnoDB: Started; log sequence number 0 6400702
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190104 15:36:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190104 15:36:30  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 6859760.
+InnoDB: Doing recovery: scanned up to log sequence number 0 6859760
+190104 15:36:30  InnoDB: Flushing modified pages from the buffer pool...
+190104 15:36:30  InnoDB: Started; log sequence number 0 6859760
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190115 10:13:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190115 10:13:56  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 7090514.
+InnoDB: Doing recovery: scanned up to log sequence number 0 7090514
+190115 10:13:56  InnoDB: Flushing modified pages from the buffer pool...
+190115 10:13:56  InnoDB: Started; log sequence number 0 7090514
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190215 15:53:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190215 15:53:00  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 7090514.
+InnoDB: Doing recovery: scanned up to log sequence number 0 7090514
+190215 15:53:00  InnoDB: Flushing modified pages from the buffer pool...
+190215 15:53:00  InnoDB: Started; log sequence number 0 7090514
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190304 16:47:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190304 16:47:00  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 7322268.
+InnoDB: Doing recovery: scanned up to log sequence number 0 7322268
+190304 16:47:00  InnoDB: Flushing modified pages from the buffer pool...
+190304 16:47:00  InnoDB: Started; log sequence number 0 7322268
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190313 20:09:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190313 20:09:18  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 7552534.
+InnoDB: Doing recovery: scanned up to log sequence number 0 7552534
+190313 20:09:18  InnoDB: Flushing modified pages from the buffer pool...
+190313 20:09:18  InnoDB: Started; log sequence number 0 7552534
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190401 11:39:51  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190401 11:39:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 8013944.
+InnoDB: Doing recovery: scanned up to log sequence number 0 8013944
+190401 11:39:51  InnoDB: Flushing modified pages from the buffer pool...
+190401 11:39:52  InnoDB: Started; log sequence number 0 8013944
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190412  9:49:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190412  9:49:34  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 8244682.
+InnoDB: Doing recovery: scanned up to log sequence number 0 8244682
+190412  9:49:34  InnoDB: Flushing modified pages from the buffer pool...
+190412  9:49:35  InnoDB: Started; log sequence number 0 8244682
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190416 11:44:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190416 11:44:27  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 8244682.
+InnoDB: Doing recovery: scanned up to log sequence number 0 8244682
+190416 11:44:27  InnoDB: Flushing modified pages from the buffer pool...
+190416 11:44:27  InnoDB: Started; log sequence number 0 8244682
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190418 11:05:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190418 11:05:23  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 8244682.
+InnoDB: Doing recovery: scanned up to log sequence number 0 8244682
+190418 11:05:23  InnoDB: Flushing modified pages from the buffer pool...
+190418 11:05:23  InnoDB: Started; log sequence number 0 8244682
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190509 18:41:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190509 18:41:12  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 8244682.
+InnoDB: Doing recovery: scanned up to log sequence number 0 8244682
+190509 18:41:13  InnoDB: Flushing modified pages from the buffer pool...
+190509 18:41:13  InnoDB: Started; log sequence number 0 8244682
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190602 11:57:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190602 11:57:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 8475400.
+InnoDB: Doing recovery: scanned up to log sequence number 0 8475400
+190602 11:57:21  InnoDB: Flushing modified pages from the buffer pool...
+190602 11:57:21  InnoDB: Started; log sequence number 0 8475400
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190603  7:55:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190603  7:55:41  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190603  7:55:41  InnoDB: Flushing modified pages from the buffer pool...
+190603  7:55:41  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190603 10:40:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190603 10:40:27  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190603 10:40:27  InnoDB: Flushing modified pages from the buffer pool...
+190603 10:40:27  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190604  6:53:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190604  6:53:43  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190604  6:53:44  InnoDB: Flushing modified pages from the buffer pool...
+190604  6:53:44  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190606 15:27:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190606 15:27:15  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190606 15:27:15  InnoDB: Flushing modified pages from the buffer pool...
+190606 15:27:15  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190612  7:18:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190612  7:18:41  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190612  7:18:41  InnoDB: Flushing modified pages from the buffer pool...
+190612  7:18:41  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190613 10:53:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190613 10:53:27  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190613 10:53:27  InnoDB: Flushing modified pages from the buffer pool...
+190613 10:53:27  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190617 10:39:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190617 10:39:23  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190617 10:39:23  InnoDB: Flushing modified pages from the buffer pool...
+190617 10:39:23  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190618 12:19:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190618 12:19:55  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190618 12:19:55  InnoDB: Flushing modified pages from the buffer pool...
+190618 12:19:55  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190625 11:31:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190625 11:31:46  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190625 11:31:46  InnoDB: Flushing modified pages from the buffer pool...
+190625 11:31:46  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190706 20:28:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190706 20:28:41  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9398207.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9398207
+190706 20:28:42  InnoDB: Flushing modified pages from the buffer pool...
+190706 20:28:42  InnoDB: Started; log sequence number 0 9398207
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190708 17:22:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190708 17:22:34  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9628590.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9628590
+190708 17:22:34  InnoDB: Flushing modified pages from the buffer pool...
+190708 17:22:34  InnoDB: Started; log sequence number 0 9628590
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190711 12:25:10  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190711 12:25:11  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9628590.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9628590
+190711 12:25:11  InnoDB: Flushing modified pages from the buffer pool...
+190711 12:25:11  InnoDB: Started; log sequence number 0 9628590
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190712  8:20:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190712  8:20:07  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9859308.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9859308
+190712  8:20:07  InnoDB: Flushing modified pages from the buffer pool...
+190712  8:20:07  InnoDB: Started; log sequence number 0 9859308
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190716 15:42:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190716 15:42:01  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9859344.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9859344
+190716 15:42:01  InnoDB: Flushing modified pages from the buffer pool...
+190716 15:42:01  InnoDB: Started; log sequence number 0 9859344
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+190805 18:15:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190805 18:15:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 9859344.
+InnoDB: Doing recovery: scanned up to log sequence number 0 9859344
+190805 18:15:13  InnoDB: Flushing modified pages from the buffer pool...
+190805 18:15:13  InnoDB: Started; log sequence number 0 9859344
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+191007 13:59:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+191007 13:59:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 10090062.
+InnoDB: Doing recovery: scanned up to log sequence number 0 10090062
+191007 13:59:20  InnoDB: Flushing modified pages from the buffer pool...
+191007 13:59:20  InnoDB: Started; log sequence number 0 10090062
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+191029  7:43:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+191029  7:43:49  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 10317381.
+InnoDB: Doing recovery: scanned up to log sequence number 0 10317381
+191029  7:43:49  InnoDB: Flushing modified pages from the buffer pool...
+191029  7:43:49  InnoDB: Started; log sequence number 0 10317381
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+191105 13:50:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+191105 13:50:23  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 10317417.
+InnoDB: Doing recovery: scanned up to log sequence number 0 10317417
+191105 13:50:23  InnoDB: Flushing modified pages from the buffer pool...
+191105 13:50:23  InnoDB: Started; log sequence number 0 10317417
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+191209 14:53:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+191209 14:53:52  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 10544736.
+InnoDB: Doing recovery: scanned up to log sequence number 0 10544736
+191209 14:53:52  InnoDB: Flushing modified pages from the buffer pool...
+191209 14:53:52  InnoDB: Started; log sequence number 0 10544736
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+200117  7:42:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+200117  7:42:37  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 10772055.
+InnoDB: Doing recovery: scanned up to log sequence number 0 10772055
+200117  7:42:38  InnoDB: Flushing modified pages from the buffer pool...
+200117  7:42:38  InnoDB: Started; log sequence number 0 10772055
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+200629  9:16:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+200629  9:16:09  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11000379.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11000379
+200629  9:16:09  InnoDB: Flushing modified pages from the buffer pool...
+200629  9:16:10  InnoDB: Started; log sequence number 0 11000379
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+200629 18:30:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+200629 18:30:50  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11000379.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11000379
+200629 18:30:50  InnoDB: Flushing modified pages from the buffer pool...
+200629 18:30:50  InnoDB: Started; log sequence number 0 11000379
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+200630 16:47:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+200630 16:47:22  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11003806.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11003806
+200630 16:47:22  InnoDB: Flushing modified pages from the buffer pool...
+200630 16:47:22  InnoDB: Started; log sequence number 0 11003806
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+200701  7:27:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+200701  7:27:30  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11003816.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11003816
+200701  7:27:31  InnoDB: Flushing modified pages from the buffer pool...
+200701  7:27:31  InnoDB: Started; log sequence number 0 11003816
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+200810 10:34:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+200810 10:34:05  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11004192.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11004192
+200810 10:34:06  InnoDB: Flushing modified pages from the buffer pool...
+200810 10:34:06  InnoDB: Started; log sequence number 0 11004192
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+210112  8:36:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+210112  8:36:31  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11004202.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11004202
+210112  8:36:32  InnoDB: Flushing modified pages from the buffer pool...
+210112  8:36:32  InnoDB: Started; log sequence number 0 11004202
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+210127  9:54:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+210127  9:54:31  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11231677.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11231677
+210127  9:54:31  InnoDB: Flushing modified pages from the buffer pool...
+210127  9:54:31  InnoDB: Started; log sequence number 0 11231677
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+210412 17:34:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+210412 17:34:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11231687.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11231687
+210412 17:34:39  InnoDB: Flushing modified pages from the buffer pool...
+210412 17:34:39  InnoDB: Started; log sequence number 0 11231687
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+210415 15:48:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+210415 15:48:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11235293.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11235293
+210415 15:48:13  InnoDB: Flushing modified pages from the buffer pool...
+210415 15:48:13  InnoDB: Started; log sequence number 0 11235293
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary

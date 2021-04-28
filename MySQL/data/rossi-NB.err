@@ -1,0 +1,495 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+101103 14:58:18  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+101103 14:58:18  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+101103 14:58:19  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+101103 14:58:20  InnoDB: Started; log sequence number 0 0
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101103 14:59:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101103 14:59:06  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+101103 14:59:06  InnoDB: Flushing modified pages from the buffer pool...
+101103 14:59:06  InnoDB: Started; log sequence number 0 43634
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101103 15:18:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101103 15:18:19  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+101103 15:18:19  InnoDB: Flushing modified pages from the buffer pool...
+101103 15:18:19  InnoDB: Started; log sequence number 0 43634
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101103 20:52:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101103 20:52:12  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43644.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43644
+101103 20:52:12  InnoDB: Flushing modified pages from the buffer pool...
+101103 20:52:12  InnoDB: Started; log sequence number 0 43644
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101114 11:49:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101114 11:49:54  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43654.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43654
+101114 11:49:54  InnoDB: Flushing modified pages from the buffer pool...
+101114 11:49:54  InnoDB: Started; log sequence number 0 43654
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101115  4:18:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101115  4:18:57  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43654.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43654
+101115  4:18:57  InnoDB: Flushing modified pages from the buffer pool...
+101115  4:18:57  InnoDB: Started; log sequence number 0 43654
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101115  4:25:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101115  4:25:17  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43654.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43654
+101115  4:25:17  InnoDB: Flushing modified pages from the buffer pool...
+101115  4:25:17  InnoDB: Started; log sequence number 0 43654
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101116  6:32:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101116  6:32:31  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43654.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43654
+101116  6:32:31  InnoDB: Flushing modified pages from the buffer pool...
+101116  6:32:31  InnoDB: Started; log sequence number 0 43654
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101116 14:10:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101116 14:10:38  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43664.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43664
+101116 14:10:38  InnoDB: Flushing modified pages from the buffer pool...
+101116 14:10:38  InnoDB: Started; log sequence number 0 43664
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101120 15:39:51  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101120 15:39:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43664.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43664
+101120 15:39:52  InnoDB: Flushing modified pages from the buffer pool...
+101120 15:39:52  InnoDB: Started; log sequence number 0 43664
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101121 10:58:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101121 10:58:54  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43664.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43664
+101121 10:58:54  InnoDB: Flushing modified pages from the buffer pool...
+101121 10:58:55  InnoDB: Started; log sequence number 0 43664
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101128 23:26:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101128 23:26:04  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43664.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43664
+101128 23:26:05  InnoDB: Flushing modified pages from the buffer pool...
+101128 23:26:05  InnoDB: Started; log sequence number 0 43664
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101219 23:02:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101219 23:02:46  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43674.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43674
+101219 23:02:46  InnoDB: Flushing modified pages from the buffer pool...
+101219 23:02:46  InnoDB: Started; log sequence number 0 43674
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101221 23:03:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101221 23:03:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43674.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43674
+101221 23:03:13  InnoDB: Flushing modified pages from the buffer pool...
+101221 23:03:13  InnoDB: Started; log sequence number 0 43674
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101222  2:23:43 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+101222  2:23:43 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+101222  2:23:47 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+101222  2:23:47 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+101222  2:23:50 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+101222  2:23:50 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+101223 10:14:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101223 10:14:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+101223 10:14:39  InnoDB: Flushing modified pages from the buffer pool...
+101223 10:14:39  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101229 11:36:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101229 11:36:25  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+101229 11:36:25  InnoDB: Flushing modified pages from the buffer pool...
+101229 11:36:25  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+101230 11:24:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 11:24:41  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+101230 11:24:42  InnoDB: Flushing modified pages from the buffer pool...
+101230 11:24:42  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110103  7:18:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110103  7:18:43  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+110103  7:18:43  InnoDB: Flushing modified pages from the buffer pool...
+110103  7:18:43  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110107  9:58:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110107  9:58:43  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+110107  9:58:43  InnoDB: Flushing modified pages from the buffer pool...
+110107  9:58:43  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110114  9:27:11  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110114  9:27:12  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+110114  9:27:12  InnoDB: Flushing modified pages from the buffer pool...
+110114  9:27:12  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110114 12:14:19 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+110114 12:14:19 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+110114 12:14:23 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+110114 12:14:23 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+110131 20:40:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110131 20:40:45  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+110131 20:40:45  InnoDB: Flushing modified pages from the buffer pool...
+110131 20:40:45  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110209 11:35:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110209 11:35:36  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+110209 11:35:36  InnoDB: Flushing modified pages from the buffer pool...
+110209 11:35:36  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110209 15:57:10  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110209 15:57:10  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+110209 15:57:10  InnoDB: Flushing modified pages from the buffer pool...
+110209 15:57:10  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110727  9:37:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110727  9:37:19  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+110727  9:37:20  InnoDB: Flushing modified pages from the buffer pool...
+110727  9:37:20  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110731 16:24:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110731 16:24:38  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43684.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43684
+110731 16:24:38  InnoDB: Flushing modified pages from the buffer pool...
+110731 16:24:38  InnoDB: Started; log sequence number 0 43684
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+110801  6:54:10  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110801  6:54:10  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43694.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43694
+110801  6:54:10  InnoDB: Flushing modified pages from the buffer pool...
+110801  6:54:10  InnoDB: Started; log sequence number 0 43694
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+111130 13:46:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+111130 13:46:32  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43704.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43704
+111130 13:46:32  InnoDB: Flushing modified pages from the buffer pool...
+111130 13:46:32  InnoDB: Started; log sequence number 0 43704
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+111130 14:15:09 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:15:09 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:15:20 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:15:20 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:15:24 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:15:24 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:21:53 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:21:53 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:22:41 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:22:41 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:22:48 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:22:48 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:22:54 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111130 14:22:54 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\a.frm' (errno: 13)
+111208  9:51:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+111208  9:51:55  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43704.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43704
+111208  9:51:55  InnoDB: Flushing modified pages from the buffer pool...
+111208  9:51:55  InnoDB: Started; log sequence number 0 43704
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+111208 16:23:47 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:23:47 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:24:56 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:24:56 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:28:21 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:28:21 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:29:05 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:29:05 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:29:44 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:29:44 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:33:55 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 16:33:55 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 20:40:53  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+111208 20:40:53  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43704.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43704
+111208 20:40:53  InnoDB: Flushing modified pages from the buffer pool...
+111208 20:40:53  InnoDB: Started; log sequence number 0 43704
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+111208 21:00:54 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 21:00:54 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 22:22:20 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 22:22:20 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 22:27:06 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111208 22:27:06 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111209  9:05:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+111209  9:05:26  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43704.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43704
+111209  9:05:26  InnoDB: Flushing modified pages from the buffer pool...
+111209  9:05:26  InnoDB: Started; log sequence number 0 43704
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+111211 20:05:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+111211 20:05:26  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43704.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43704
+111211 20:05:26  InnoDB: Flushing modified pages from the buffer pool...
+111211 20:05:26  InnoDB: Started; log sequence number 0 43704
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+111211 20:06:43 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+111211 20:06:43 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+120101 12:33:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+120101 12:33:44  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43704.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43704
+120101 12:33:44  InnoDB: Flushing modified pages from the buffer pool...
+120101 12:33:45  InnoDB: Started; log sequence number 0 43704
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+120425 22:11:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+120425 22:11:36  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43714.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43714
+120425 22:11:36  InnoDB: Flushing modified pages from the buffer pool...
+120425 22:11:36  InnoDB: Started; log sequence number 0 43714
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+120425 22:45:53 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+120425 22:45:53 [ERROR] c:\maurer\gekkodb.exe: Can't find file: '.\mszamla\c.frm' (errno: 13)
+121129  8:20:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+121129  8:20:36  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43714.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43714
+121129  8:20:37  InnoDB: Flushing modified pages from the buffer pool...
+121129  8:20:37  InnoDB: Started; log sequence number 0 43714
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+121208 11:47:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+121208 11:47:37  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43714.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43714
+121208 11:47:37  InnoDB: Flushing modified pages from the buffer pool...
+121208 11:47:37  InnoDB: Started; log sequence number 0 43714
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+121218  6:58:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+121218  6:58:55  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43714.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43714
+121218  6:58:56  InnoDB: Flushing modified pages from the buffer pool...
+121218  6:58:56  InnoDB: Started; log sequence number 0 43714
+c:\maurer\gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
+131214 10:05:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+131214 10:05:18  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43714.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43714
+131214 10:05:18  InnoDB: Flushing modified pages from the buffer pool...
+131214 10:05:18  InnoDB: Started; log sequence number 0 43714
+gekkodb.exe: ready for connections.
+Version: '4.1.14'  socket: ''  port: 33066  Official MySQL binary
